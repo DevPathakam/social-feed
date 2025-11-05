@@ -33,10 +33,11 @@ Caching is implemented through a custom context `useCache` that stores comments 
 - **Moderation**: The cache can be invalidated or updated based on specific actions, such as when a comment is moderated.
 
 ## Improvements if More Time
+1. **Enhanced UI**: User Interface can be made more attractive and engaging using animations, icons, etc.
 
-1. **Enhanced Features**: Developing a more robust moderation interface with features like comment updation and deletion, replying a comment, and user reporting could improve the moderation experience.
+2. **Enhanced Features**: Developing a more robust moderation interface with features like comment updation and deletion, replying a comment, and user reporting could improve the moderation experience.
 
-2. **Real-time Comment Updates**: Implementing WebSocket support to allow real-time updates for new comments and moderation actions would enhance user engagement.
+3. **Real-time Comment Updates**: Implementing WebSocket support to allow real-time updates for new comments and moderation actions would enhance user engagement.
 
 ## Get Started
 
